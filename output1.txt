@@ -1,0 +1,32 @@
+        
+**g     
+* ooooo 
+*o      
+**os    
+ ***    
+        
+BFS: 10
+**      
+**g     
+* ooooo 
+*o **   
+**os*   
+ ****   
+ ****   
+DFS: 19
+        
+**g     
+* ooooo 
+*o      
+**os    
+ ***    
+        
+A*: 10
+        
+**g     
+* ooooo 
+*o      
+**os    
+ ***    
+        
+IDA*: 10

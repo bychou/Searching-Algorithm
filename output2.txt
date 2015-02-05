@@ -1,0 +1,104 @@
+ oooooooooooo                               oooooo       
+ oooooooooooo            oooooooooooooooooooo            
+ os         o oooooooooooo                               
+ o*         o                                            
+ o*         o                                         o  
+ o*         o                                    ooooo   
+ o************                                oooo       
+ o          o*                           oooooo  o       
+oo          o**                     ooooo        oo      
+oooooooooooooo*                    oo             o      
+       ooooo  *             oooo                  o      
+ ooooooo      *           ooo                     oo     
+              *         ooooo                      o     
+              *       ooo   ooo                    o     
+              *   oooo        oo                   o     
+              * ooo            ooooo     ooooooo ooooooo 
+        ooooo *                    ooooooo             o 
+    ooooo     *                          oo            o 
+   oo         *                           o            o 
+   o          *                           o            o 
+              ******************************           oo
+                                          o*            o
+                                          o*            o
+   oooooooooooooooooooooooooooooooooooooooo************go
+                                         oooooooooooooooo
+BFS: 74
+ oooooooooooo                               oooooo       
+ oooooooooooo            oooooooooooooooooooo            
+ os******** o oooooooooooo********                       
+ o********* o*********************                       
+ o********* o************* *******                    o  
+ o********* o************* *******               ooooo   
+ o************************ *******            oooo       
+ o**********o ************ *******       oooooo**o       
+oo**********o ************ *******  ooooo********oo      
+oooooooooooooo************ ******* oo************ o      
+       ooooo  ************  oooo **************** o      
+ ooooooo      ************ooo    **** *********** oo     
+              **********ooooo    **** ***********  o     
+              ********ooo   ooo  **** ***********  o     
+              ****oooo        oo **** ***********  o     
+              **ooo            ooooo  ** ooooooo*ooooooo 
+        ooooo **                   ooooooo      *******o 
+    ooooo     **                         oo     *******o 
+   oo         **                          o     *******o 
+   o          **                          o     *******o 
+              **                                *******oo
+              **                          o     ******* o
+              **                          o     ******* o
+   oooooooooooooooooooooooooooooooooooooooo     *******go
+                                         oooooooooooooooo
+DFS: 431
+ oooooooooooo                               oooooo       
+ oooooooooooo            oooooooooooooooooooo            
+ os         o oooooooooooo                               
+ o*         o                                            
+ o*         o                                         o  
+ o*         o                                    ooooo   
+ o************                                oooo       
+ o          o*                           oooooo  o       
+oo          o**                     ooooo        oo      
+oooooooooooooo*                    oo             o      
+       ooooo  *             oooo                  o      
+ ooooooo      *           ooo                     oo     
+              *         ooooo                      o     
+              *       ooo   ooo                    o     
+              *   oooo        oo                   o     
+              * ooo            ooooo     ooooooo ooooooo 
+        ooooo *                    ooooooo             o 
+    ooooo     *                          oo            o 
+   oo         *                           o            o 
+   o          *                           o            o 
+              ******************************           oo
+                                          o*            o
+                                          o*            o
+   oooooooooooooooooooooooooooooooooooooooo************go
+                                         oooooooooooooooo
+A*: 74
+ oooooooooooo                               oooooo       
+ oooooooooooo            oooooooooooooooooooo            
+ os         o oooooooooooo                               
+ o*         o                                            
+ o*         o                                         o  
+ o*         o                                    ooooo   
+ o************                                oooo       
+ o          o*                           oooooo  o       
+oo          o**                     ooooo        oo      
+oooooooooooooo*                    oo             o      
+       ooooo  *             oooo                  o      
+ ooooooo      *           ooo                     oo     
+              *         ooooo                      o     
+              *       ooo   ooo                    o     
+              *   oooo        oo                   o     
+              * ooo            ooooo     ooooooo ooooooo 
+        ooooo *                    ooooooo             o 
+    ooooo     *                          oo            o 
+   oo         *                           o            o 
+   o          *                           o            o 
+              ******************************           oo
+                                          o*            o
+                                          o*            o
+   oooooooooooooooooooooooooooooooooooooooo************go
+                                         oooooooooooooooo
+IDA*: 74
